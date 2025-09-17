@@ -1,0 +1,69 @@
+    .akapit{
+        font-size: 32px;
+        color: chartreuse;
+    }
+    #akapit2{
+        font-size: 1.25rem;
+        color: red;
+    }
+    p{
+        text-decoration: dotted;
+        
+    }
+    #pojemnik{
+        width: 1280px;
+        height: 800px;
+        background-color: rgb(83, 207, 245);
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #LewaStrona{
+        width: 50%;
+        height: 200px;
+        background-color: yellow;
+        float: left;
+    }
+    #prawaStrona{
+        width: 50%;
+        height: 200px;
+        background-color: yellowgreen;
+        float: left;
+    }
+    #srodek{
+        width: 100%;
+        height: 200px;
+        background-color: brown;
+        clear: both;
+    }
+    #klocek1{
+        width: 20%;
+        height: 200px;
+        background-color: darkgoldenrod;
+        float: right;
+    }
+    #klocekdrugi{
+        width: 20%;
+        height: 200px;
+        background-color: chartreuse;
+        float: right;
+    }
+    #klocek3{
+        width: 20%;
+        height: 200px;
+        background-color: blueviolet;
+        clear: both;
+        float: right;
+    }
+    #klocek4{
+        width: 20%;
+        height: 200px;
+        background-color: chocolate;
+        float: left;
+    }
+    #klocek5{
+        width: 60%;
+        height: 200px;
+        background-color: crimson;
+        clear: both;
+        
+    }
